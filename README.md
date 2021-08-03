@@ -4,7 +4,9 @@ Backend Developed by Django Framework
 Frontend Developed by ReactJS Framework
 ```
 
-![EPM1](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/thumb.jpg)
+![EPM1](https://github.com/ghostcommander0102/EPM/blob/main/Picture1.png)
+![EPM2](https://github.com/ghostcommander0102/EPM/blob/main/Picture2.png)
+![EPM3](https://github.com/ghostcommander0102/EPM/blob/main/Picture3.png)
 
 ## epm-ui
 ```

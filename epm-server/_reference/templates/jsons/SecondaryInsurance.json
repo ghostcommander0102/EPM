@@ -1,0 +1,46 @@
+{
+  "title": "Insurance Information",
+  "doc": "PATIENT PROFILE.pdf",
+  "fields": {
+    "secondary_insurance": {
+      "type": "text",
+      "pos": [1.875, 7.95],
+      "size": 14
+    },
+    "insurance_id_number": {
+      "type": "text",
+      "pos": [1.375, 8.175],
+      "size": 14
+    },
+    "group_number": {
+      "type": "text",
+      "pos": [5.625, 8.175],
+      "size": 14
+    },
+    "subscriber_name": {
+      "type": "text",
+      "pos": [1.7, 8.425],
+      "size": 14
+    },
+    "subscriber_dob": {
+      "type": "text",
+      "pos": [5.625, 8.425],
+      "size": 14
+    },
+    "subscriber_address": {
+      "type": "text",
+      "pos": [1.8, 8.625],
+      "size": 14
+    },
+    "subscriber_phone": {
+      "type": "text",
+      "pos": [6.25, 8.625],
+      "size": 14
+    },
+    "relationship_to_patient": {
+      "type": "text",
+      "pos": [2.0, 8.825],
+      "size": 14
+    }
+  }
+}

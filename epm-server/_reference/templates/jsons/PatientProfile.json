@@ -1,0 +1,144 @@
+{
+  "title": "PATIENT PROFILE",
+  "doc": "PATIENT PROFILE.pdf",
+  "fields": {
+    "first_name": {
+      "type": "text",
+      "pos": [1.0, 2.125],
+      "size": 14
+    },
+    "last_name": {
+      "type": "text",
+      "pos": [2.5, 2.125],
+      "size": 14
+    },
+    "date": {
+      "type": "text",
+      "pos": [6.5, 2.125],
+      "size": 14
+    },
+    "address1": {
+      "type": "text",
+      "pos": [0.875, 2.4],
+      "size": 14
+    },
+    "address2": {
+      "type": "text",
+      "pos": [2.5, 2.4],
+      "size": 14
+    },
+    "city": {
+      "type": "text",
+      "pos": [5.5, 2.4],
+      "size": 14
+    },
+    "state": {
+      "type": "text",
+      "pos": [6.9, 2.4],
+      "size": 14
+    },
+    "zip": {
+      "type": "text",
+      "pos": [7.7, 2.4],
+      "size": 14
+    },
+    "home_phone": {
+      "type": "text",
+      "pos": [1.25, 2.275],
+      "size": 14
+    },
+    "work_phone": {
+      "type": "text",
+      "pos": [4.375, 2.275],
+      "size": 14
+    },
+    "cell_phone": {
+      "type": "text",
+      "pos": [7.25, 2.275],
+      "size": 14
+    },
+    "ssn": {
+      "type": "text",
+      "pos": [1.75, 3.05],
+      "size": 14
+    },
+    "dob": {
+      "type": "text",
+      "pos": [4.0, 3.05],
+      "size": 14
+    },
+    "sex_female": {
+      "type": "checkbox1",
+      "pos": [5.7, 3.05]
+    },
+    "sex_male": {
+      "type": "checkbox1",
+      "pos": [6.6, 3.05]
+    },
+    "sex_other": {
+      "type": "checkbox1",
+      "pos": [7.2, 3.05]
+    },
+    "martial_single": {
+      "type": "checkbox1",
+      "pos": [1.375, 3.3]
+    },
+    "martial_married": {
+      "type": "checkbox1",
+      "pos": [2.1, 3.05]
+    },
+    "martial_divorced": {
+      "type": "checkbox1",
+      "pos": [2.9, 3.05]
+    },
+    "martial_widowed": {
+      "type": "checkbox1",
+      "pos": [3.8, 3.05]
+    },
+    "email": {
+      "type": "text",
+      "pos": [5.625, 3.3],
+      "size": 14
+    },
+    "name_to_receive_statement": {
+      "type": "text",
+      "pos": [5.625, 3.625],
+      "size": 14
+    },
+    "emergency_contact_name": {
+      "type": "text",
+      "pos": [4.2, 3.25],
+      "size": 14
+    },
+    "emergency_contact_phone": {
+      "type": "text",
+      "pos": [6.25, 3.25],
+      "size": 14
+    },
+    "primary_physician": {
+      "type": "text",
+      "pos": [1.875, 4.5],
+      "size": 14
+    },
+    "primary_physician_phone": {
+      "type": "text",
+      "pos": [6.25, 4.5],
+      "size": 14
+    },
+    "employer": {
+      "type": "text",
+      "pos": [1.25, 4.76],
+      "size": 14
+    },
+    "occupation": {
+      "type": "text",
+      "pos": [3.875, 4.76],
+      "size": 14
+    },
+    "employer_phone": {
+      "type": "text",
+      "pos": [6.25, 4.76],
+      "size": 14
+    }
+  }
+}

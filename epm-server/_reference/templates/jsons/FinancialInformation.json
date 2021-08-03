@@ -1,0 +1,24 @@
+{
+  "title": "FINANCIAL INFORMATION",
+  "doc": "FINANCIAL INFORMATION.pdf",
+  "fields": {
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [0.75, 8.25]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6.5, 8.2],
+      "size": 16
+    },
+    "printed_patient_name": {
+      "type": "text",
+      "pos": [0.75, 9.0],
+      "size": 20
+    },
+    "chb_is_qpr": {
+      "type": "checkbox1",
+      "pos": [1.75, 9.875]
+    }
+  }
+}

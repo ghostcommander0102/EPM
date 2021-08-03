@@ -1,0 +1,20 @@
+{
+  "title": "FINANCIAL NEED BASED / SELF-PAY PATIENTS",
+  "doc": "FINANCIAL NEED.pdf",
+  "fields": {
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [0.7, 8.75]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6.5, 8.75],
+      "size": 16
+    },
+    "printed_patient_name": {
+      "type": "text",
+      "pos": [0.7, 9.5],
+      "size": 20
+    }
+  }
+}

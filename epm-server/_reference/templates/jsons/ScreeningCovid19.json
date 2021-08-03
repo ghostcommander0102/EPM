@@ -1,0 +1,96 @@
+{
+  "title": "SCREENING FOR COVID-19 QUESTIONAIRE",
+  "doc": "SCREENING FOR COVID-19.pdf",
+  "fields": {
+    "chb_have_fever_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 2.375],
+      "size": 20
+    },
+    "chb_have_fever_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 2.375],
+      "size": 20
+    },
+    "chb_have_cough_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 2.7],
+      "size": 20
+    },
+    "chb_have_cough_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 2.7],
+      "size": 20
+    },
+    "chb_have_been_around_cough_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 3.4],
+      "size": 20
+    },
+    "chb_have_been_around_cough_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 3.4],
+      "size": 20
+    },
+    "chb_have_other_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 3.9],
+      "size": 20
+    },
+    "chb_have_other_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 3.9],
+      "size": 20
+    },
+    "chb_have_traveled_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 4.625],
+      "size": 20
+    },
+    "chb_have_traveled_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 4.625],
+      "size": 20
+    },
+    "chb_have_been_around_diagnosed_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 5.2],
+      "size": 20
+    },
+    "chb_have_been_around_diagnosed_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 5.2],
+      "size": 20
+    },
+    "chb_have_been_around_investigated_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 5.625],
+      "size": 20
+    },
+    "chb_have_been_around_investigated_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 5.625],
+      "size": 20
+    },
+    "chb_have_traveled_endemic_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 6.2],
+      "size": 20
+    },
+    "chb_have_traveled_endemic_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 6.2],
+      "size": 20
+    },
+    "chb_have_traveled_non_endemic_yes": {
+      "type": "checkbox1",
+      "pos": [5.75, 6.5],
+      "size": 20
+    },
+    "chb_have_traveled_non_endemic_no": {
+      "type": "checkbox1",
+      "pos": [6.75, 6.5],
+      "size": 20
+    }
+  }
+}

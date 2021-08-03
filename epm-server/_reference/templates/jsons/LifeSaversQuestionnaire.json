@@ -1,0 +1,70 @@
+{
+  "title": "LifeSaversQuestionnaire",
+  "doc": "PATIENT INFORMATION.pdf",
+  "fields": {
+    "chb_clinic_sign": {
+      "type": "checkbox1",
+      "pos": [0.3, 8.9],
+      "size": 14
+    },
+    "chb_lifesaver.com": {
+      "type": "checkbox1",
+      "pos": [3.25, 8.9],
+      "size": 14
+    },
+    "chb_other": {
+      "type": "checkbox1",
+      "pos": [5.25, 8.9]
+    },
+    "chb_web": {
+      "type": "checkbox1",
+      "pos": [0.3, 9.25]
+    },
+    "chb_doctor": {
+      "type": "checkbox1",
+      "pos": [3.25, 9.25],
+      "size": 14
+    },
+    "chb_festival": {
+      "type": "checkbox1",
+      "pos": [5.25, 9.25],
+      "size": 14
+    },
+    "chb_be_former_patient": {
+      "type": "checkbox1",
+      "pos": [0.3, 9.5]
+    },
+    "chb_family_or_friend": {
+      "type": "checkbox1",
+      "pos": [3.25, 9.5]
+    },
+    "chb_radio": {
+      "type": "checkbox1",
+      "pos": [5.25, 9.5]
+    },
+    "chb_former_patient_recommendation": {
+      "type": "checkbox1",
+      "pos": [0.3, 9.8]
+    },
+    "chb_employer": {
+      "type": "checkbox1",
+      "pos": [3.25, 9.8]
+    },
+    "chb_insurance_company": {
+      "type": "checkbox1",
+      "pos": [0.3, 10.1]
+    },
+    "chb_newspaper": {
+      "type": "checkbox1",
+      "pos": [3.25, 10.1]
+    },
+    "chb_tv_ad": {
+      "type": "checkbox1",
+      "pos": [0.3, 10.4]
+    },
+    "chb_marketing": {
+      "type": "checkbox1",
+      "pos": [3.25, 10.4]
+    }
+  }
+}

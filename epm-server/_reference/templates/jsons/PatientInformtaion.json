@@ -1,0 +1,88 @@
+{
+  "title": "PATIENT INFORMATION",
+  "doc": "PATIENT INFORMATION.pdf",
+  "fields": {
+    "last_name": {
+      "type": "text",
+      "pos": [1.25, 2.875],
+      "size": 14
+    },
+    "first_name": {
+      "type": "text",
+      "pos": [4.75, 2.875],
+      "size": 14
+    },
+    "has_patient_before_yes": {
+      "type": "checkbox1",
+      "pos": [3.0, 3.3]
+    },
+    "has_patient_before_no": {
+      "type": "checkbox1",
+      "pos": [3.65, 3.3]
+    },
+    "dob": {
+      "type": "text",
+      "pos": [1.5, 3.75],
+      "size": 14
+    },
+    "age": {
+      "type": "text",
+      "pos": [5.875, 3.75],
+      "size": 14
+    },
+    "race_african_american": {
+      "type": "checkbox1",
+      "pos": [1.5, 4.1]
+    },
+    "race_caucasian": {
+      "type": "checkbox1",
+      "pos": [2.9, 4.1]
+    },
+    "race_asian": {
+      "type": "checkbox1",
+      "pos": [3.875, 4.1]
+    },
+    "race_hispanic": {
+      "type": "checkbox1",
+      "pos": [4.5, 4.1]
+    },
+    "race_other": {
+      "type": "checkbox1",
+      "pos": [5.4, 4.1]
+    },
+    "ethnicity_hispanic_latin": {
+      "type": "checkbox1",
+      "pos": [1.5, 4.375],
+      "size": 14
+    },
+    "ethnicity_not_hispanic": {
+      "type": "checkbox1",
+      "pos": [3.0, 4.375],
+      "size": 14
+    },
+    "ethnicity_declined": {
+      "type": "checkbox1",
+      "pos": [4.8, 4.375]
+    },
+    "reason_for_visit": {
+      "type": "text",
+      "pos": [6.6, 3.05],
+      "size": 14
+    },
+    "referred_by": {
+      "type": "text",
+      "pos": [1.625, 6.25],
+      "size": 16
+    },
+    "name_of_facility": {
+      "type": "text",
+      "pos": [2.5, 7.1],
+      "size": 16
+    },
+    "address": {
+      "type": "text",
+      "pos": [1.25, 7.3],
+      "size": 16
+    }
+  }
+}

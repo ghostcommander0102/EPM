@@ -1,0 +1,81 @@
+{
+  "title": "IF you WERE Involved in an Accident please COMPLETE this section",
+  "doc": "PATIENT PROFILE.pdf",
+  "fields": {
+    "date_of_accident": {
+      "type": "text",
+      "pos": [1.675, 8.7],
+      "size": 14
+    },
+    "cause_of_accident_auto": {
+      "type": "text",
+      "pos": [4.625, 8.7],
+      "size": 14
+    },
+    "cause_of_accident_work": {
+      "type": "text",
+      "pos": [5.25, 8.7],
+      "size": 14
+    },
+    "cause_of_accident_public": {
+      "type": "text",
+      "pos": [6.25, 8.7],
+      "size": 14
+    },
+    "cause_of_accident_store": {
+      "type": "text",
+      "pos": [7.1, 8.7],
+      "size": 14
+    },
+    "accident_involvement_driver": {
+      "type": "text",
+      "pos": [2.2, 9.2],
+      "size": 14
+    },
+    "accident_involvement_passenger": {
+      "type": "text",
+      "pos": [2.85, 9.2],
+      "size": 14
+    },
+    "accident_involvement_pedestrian": {
+      "type": "text",
+      "pos": [3.875, 9.2],
+      "size": 14
+    },
+    "accident_involvement_cyclist": {
+      "type": "text",
+      "pos": [4.9, 9.2],
+      "size": 14
+    },
+    "accident_involvement_visitor": {
+      "type": "text",
+      "pos": [5.75, 9.2],
+      "size": 14
+    },
+    "insurance_company": {
+      "type": "text",
+      "pos": [4.5, 9.5],
+      "size": 14
+    },
+    "address": {
+      "type": "text",
+      "pos": [1.0, 9.875],
+      "size": 14
+    },
+    "phone": {
+      "type": "text",
+      "pos": [5.75, 9.875],
+      "size": 14
+    },
+    "name_of_insured": {
+      "type": "text",
+      "pos": [1.75, 10.25],
+      "size": 14
+    },
+    "adjuster": {
+      "type": "text",
+      "pos": [5.75, 10.25],
+      "size": 14
+    }
+  }
+}

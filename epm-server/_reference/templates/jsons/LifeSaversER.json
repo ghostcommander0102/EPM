@@ -1,0 +1,45 @@
+{
+  "title": "LIFE SAVERS ER PATIENT PAYMENT POLICY & AGREEMENT",
+  "doc": "LIFE SAVERS ER.pdf",
+  "fields": {
+    "chb_declare_financial_difficulty": {
+      "type": "checkbox1",
+      "pos": [0.25, 3.7],
+      "size": 20
+    },
+    "declare_financial_difficulty": {
+      "type": "text",
+      "pos": [0.5, 4.2],
+      "size": 16
+    },
+    "chb_pay_full": {
+      "type": "checkbox1",
+      "pos": [1.4, 5.875],
+      "size": 20
+    },
+    "patient_name": {
+      "type": "text",
+      "pos": [1.5, 7.625],
+      "size": 20
+    },
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [1.75, 8.25]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6.5, 8.25],
+      "size": 16
+    },
+    "staff_witness": {
+      "type": "text",
+      "pos": [1.75, 8.9],
+      "size": 16
+    },
+    "date_of_staff_witness": {
+      "type": "text",
+      "pos": [6.5, 8.9],
+      "size": 16
+    }
+  }
+}

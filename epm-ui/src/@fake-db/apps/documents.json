@@ -1,0 +1,34 @@
+{
+  "documents": [
+  {
+    "pid": "1d604da9-9a81-4ba9-80c2-de3375d59b40",
+    "firstName" : "Marjory",
+    "lastName": "Sicely",
+    "fullName": "Marjory Sicely",
+    "dob": "1989-05-25",
+    "ssn": "999-76-6866",
+    "drivers": "S99984236",
+    "passport": "X19277260X",
+    "prefix": "Mr.",
+    "suffix": "",
+    "maiden": "",
+    "marital": "M",
+    "race": "white",
+    "ethnicity": "hispanic",
+    "gender": "M",
+    "email": "patient@demo.com",
+    "birthPlace": "Marigot  Saint Andrew Parish  DM",
+    "address": "427 Balistreri Way Unit 19",
+    "city": "Chicopee",
+    "state": "Massachusetts",
+    "county": "Hampden County",
+    "primaryProvider": "Odis Sipes",
+    "secondaryProvider": "Mignon Quitzon",
+    "zip": 1013.0,
+    "lat": 42.22835382315942,
+    "lon": -72.56295055096882,
+    "healthcareExpenses": 271227.08,
+    "healthcareCoverage": 1334.88
+  }
+]
+}

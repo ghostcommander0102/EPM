@@ -1,0 +1,30 @@
+{
+  "title": "PATIENT’S RIGHTS AND RESPONSIBILITIES",
+  "doc": "PATIENT RIGHTS.pdf",
+  "fields": {
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [1.25, 9.7]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [4.875, 9.7],
+      "size": 16
+    },
+    "signed_behalf_of_patient": {
+      "type": "text",
+      "pos": [0.875, 10.25],
+      "size": 16
+    },
+    "relationship_to_patient": {
+      "type": "text",
+      "pos": [3.625, 10.25],
+      "size": 16
+    },
+    "date_of_behalf_signed": {
+      "type": "text",
+      "pos": [6.25, 10.25],
+      "size": 16
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "LIFE SAVERS EMERGENCY ROOM AND THE MEDICAL STAFF’S NOTICE OF PRIVACY PRACTICES ACKNOWLEDGEMENT",
+  "doc": "LIFE SAVERS EMERGENCY ROOM.pdf",
+  "fields": {
+    "initial_here": {
+      "type": "text",
+      "pos": [6.75, 5.1],
+      "size": 16
+    },
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [0.75, 6.25]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6.875, 6.25],
+      "size": 16
+    },
+    "printed_patient_name": {
+      "type": "text",
+      "pos": [5.75, 7.0],
+      "size": 20
+    },
+    "signature_of_qpr": {
+      "type": "image",
+      "pos": [0.75, 7.625]
+    },
+    "printed_qpr_name": {
+      "type": "text",
+      "pos": [5.75, 7.625],
+      "size": 20
+    },
+    "relationship_to_patient": {
+      "type": "text",
+      "pos": [0.75, 8.2],
+      "size": 16
+    },
+    "staff_witness": {
+      "type": "text",
+      "pos": [0.75, 9.0],
+      "size": 16
+    }
+  }
+}

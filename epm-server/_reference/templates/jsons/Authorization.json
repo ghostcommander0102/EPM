@@ -1,0 +1,110 @@
+{
+  "title": "AUTHORIZATION TO RELEASE HEALTHCARE INFORMATION",
+  "doc": "AUTHORIZATION.pdf",
+  "fields": {
+    "printed_patient_name": {
+      "type": "text",
+      "pos": [2, 2.5],
+      "size": 16
+    },
+    "doctor_office_name": {
+      "type": "text",
+      "pos": [2.5, 3.5],
+      "size": 16
+    },
+    "address": {
+      "type": "text",
+      "pos": [2.5, 3.8],
+      "size": 14
+    },
+    "city": {
+      "type": "text",
+      "pos": [2.5, 4.2],
+      "size": 14
+    },
+    "state": {
+      "type": "text",
+      "pos": [4.875, 4.2],
+      "size": 14
+    },
+    "zip": {
+      "type": "text",
+      "pos": [6.25, 4.2],
+      "size": 14
+    },
+    "phone": {
+      "type": "text",
+      "pos": [2.5, 4.5],
+      "size": 14
+    },
+    "ext": {
+      "type": "text",
+      "pos": [4.875, 4.5],
+      "size": 14
+    },
+    "fax": {
+      "type": "text",
+      "pos": [6.25, 4.5],
+      "size": 14
+    },
+    "chb_healthcare_information_relate":{
+      "type": "checkbox1",
+      "pos": [1.125, 5.125],
+      "size": 20
+    },
+    "healthcare_information_relate":{
+      "type": "text",
+      "pos": [5.75, 5.2],
+      "size": 14
+    },
+    "chb_all_healthcare_information":{
+      "type": "checkbox1",
+      "pos": [1.125, 5.75],
+      "size": 20
+    },
+    "chb_other":{
+      "type": "checkbox1",
+      "pos": [1.125, 6.1],
+      "size": 20
+    },
+    "other":{
+      "type": "text",
+      "pos" : [1.875, 6.125],
+      "size": 14
+    },
+    "chb_release_result_yes":{
+      "type": "checkbox1",
+      "pos": [1.125, 7.625],
+      "size": 20
+    },
+    "chb_release_result_no":{
+      "type": "checkbox1",
+      "pos": [1.625, 7.625],
+      "size": 20
+    },
+    "chb_release_record_yes":{
+      "type": "checkbox1",
+      "pos": [1.125, 8.6],
+      "size": 20
+    },
+    "chb_release_record_no":{
+      "type": "checkbox1",
+      "pos": [1.625, 8.6],
+      "size": 20
+    },
+    "chb_decline_to_release":{
+      "type": "checkbox1",
+      "pos": [2.4, 9.1],
+      "size": 20
+    },
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [2.5, 9.7]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6, 9.7],
+      "size": 16
+    }
+  }
+}

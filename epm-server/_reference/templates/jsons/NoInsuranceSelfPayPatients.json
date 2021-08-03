@@ -1,0 +1,26 @@
+{
+  "title": "NO INSURANCE/ SELF-PAY PATIENTS",
+  "doc": "NO INSURANCE SELF-PAY PATIENTS.pdf",
+  "fields": {
+    "do_not_have_insurance": {
+      "type": "checkbox1",
+      "pos": [0.5, 3.0],
+      "size": 20
+    },
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [0.5, 8.875],
+      "size": [2.5, 0.375]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6.5, 9.2],
+      "size": 14
+    },
+    "printed_patient_name": {
+      "type": "text",
+      "pos": [0.5, 9.8],
+      "size": 16
+    }
+  }
+}

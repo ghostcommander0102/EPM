@@ -1,0 +1,34 @@
+{
+  "title": "Assignment of Benefits: Assignment of Cause of Action: Contractual Lien",
+  "doc": "Assignment of Benefits.pdf",
+  "fields": {
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [0.5, 7.75]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6, 7.75],
+      "size": 16
+    },
+    "printed_patient_name": {
+      "type": "text",
+      "pos": [5.75, 8.5],
+      "size": 20
+    },
+    "signature_of_qpr": {
+      "type": "image",
+      "pos": [0.5, 9.125]
+    },
+    "printed_qpr_name": {
+      "type": "text",
+      "pos": [5.75, 9.125],
+      "size": 20
+    },
+    "relationship_to_patient": {
+      "type": "text",
+      "pos": [0.5, 9.875],
+      "size": 16
+    }
+  }
+}

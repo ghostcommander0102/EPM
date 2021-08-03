@@ -1,0 +1,39 @@
+{
+  "title": "CONSENT TO TREATMENT",
+  "doc": "CONSENT TO TREATMENT.pdf",
+  "fields": {
+    "signature_of_patient": {
+      "type": "image",
+      "pos": [1.875, 7.3]
+    },
+    "date_of_patient_signed": {
+      "type": "text",
+      "pos": [6.5, 7.3],
+      "size": 16
+    },
+    "staff_witness1": {
+      "type": "text",
+      "pos": [1.5, 7.8],
+      "size": 20
+    },
+    "relationship_to_patient": {
+      "type": "text",
+      "pos": [2.5, 8.6],
+      "size": 16
+    },
+    "signature_of_relative": {
+      "type": "image",
+      "pos": [2.875, 9.125]
+    },
+    "date_of_relative_signature": {
+      "type": "text",
+      "pos": [5.75, 9.125],
+      "size": 16
+    },
+    "staff_witness2": {
+      "type": "text",
+      "pos": [1.5, 9.625],
+      "size": 20
+    }
+  }
+}
